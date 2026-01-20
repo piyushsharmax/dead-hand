@@ -1,0 +1,7 @@
+droidrun
+python-dotenv
+streamlit
+pillow
+google-generativeai
+requests
+rich
